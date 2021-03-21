@@ -1,4 +1,4 @@
-### Hi 👋 I'm Ernesto Júnior!
+### Hello 👋 I'm Ernesto Júnior!
 
 <!--
 **ernestosjunior/ernestosjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
