@@ -5,11 +5,6 @@
 I'm a {backend and frontend} developer (training).
 
 
-<p align="center">
-JavaScript | Node.js | ReactJS 
-</p>
-  
-
 <!--
 **ernestosjunior/ernestosjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
