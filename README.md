@@ -1,4 +1,4 @@
-# Hi, I'm Ernesto Júnior! :D
+# Hi 👋, I'm Ernesto Júnior!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ernestosjunior/)](https://www.linkedin.com/in/ernestosjunior/)
 <a
     href="mailto:ernesto.sjunior@hotmail.com" 
@@ -11,7 +11,7 @@
 I'm a {backend and frontend} developer (training).
 
 ----
-**Languages and Tools:**
+🚀**Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
