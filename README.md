@@ -3,8 +3,7 @@
 <a
     href="mailto:ernesto.sjunior@hotmail.com" 
     alt="Outlook"
-    target="blank"
->
+    target="blank">
    <img src="https://img.shields.io/badge/-Outlook-537AF1?style=flat&logo=microsoft-outlook&logoColor=white" />
 </a>
 
