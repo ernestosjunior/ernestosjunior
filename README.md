@@ -1,5 +1,12 @@
 # Hi, I'm Ernesto Júnior! :D
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ernestosjunior/)](https://www.linkedin.com/in/ernestosjunior/)
+<a
+    href="mailto:ernesto.sjunior@hotmail.com" 
+    alt="Outlook"
+    target="blank"
+>
+   <img src="https://img.shields.io/badge/-Outlook-537AF1?style=flat&logo=microsoft-outlook&logoColor=white" />
+</a>
 
 ### About me
 I'm a {backend and frontend} developer (training).
