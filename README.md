@@ -1,4 +1,10 @@
-### Hello 👋 I'm Ernesto Júnior!
+#Hi, I'm Ernesto Júnior! =D
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ernestosjunior/)](https://www.linkedin.com/in/ernestosjunior/)
+
+###About me
+I'm a {backend and frontend} developer (training).
+  
 
 <!--
 **ernestosjunior/ernestosjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
