@@ -8,7 +8,7 @@
 </a>
 
 ### About me
-I'm a {backend and frontend} developer (training).
+I'm a {backend and frontend} developer (student).
 
 ----
 🚀 **Languages and Tools:**
