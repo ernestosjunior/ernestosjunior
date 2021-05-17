@@ -23,7 +23,7 @@ I'm a {backend and frontend} developer (student).
 
 ----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestosjunior&hide=php)](https://github.com/ernestosjunior/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestosjunior&hide=php,blade)](https://github.com/ernestosjunior/github-readme-stats)
 
 
 <!--
