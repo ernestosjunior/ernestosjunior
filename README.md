@@ -23,6 +23,7 @@ I'm a {backend and frontend} developer (student).
 
 ----
 
+![Ernesto's GitHub stats](https://github-readme-stats.vercel.app/api?username=ernestosjunior&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestosjunior&hide=php,blade)](https://github.com/ernestosjunior/github-readme-stats)
 
 
