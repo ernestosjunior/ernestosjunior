@@ -8,7 +8,7 @@
 </a>
 
 ### About me
-I'm a {backend and frontend} developer ().
+I'm a {backend, frontend} = developer().
 
 ----
 🚀 **I’m currently learning ... and working with**
