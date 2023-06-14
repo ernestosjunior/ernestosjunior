@@ -18,7 +18,7 @@ I'm a { backend, frontend } = developer().
 
 ----
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=ernestosjunior&count_private=true&show_icons=true)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestosjunior&hide,blade&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestosjunior&hide,blade&layout=compact)
 
 
 <!--
